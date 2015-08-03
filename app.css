@@ -1,0 +1,36 @@
+.list{
+  list-style: none outside none;
+  margin: 10px 0 30px;
+}
+
+.item{
+  width:400px;
+  padding: 5px 10px;
+  background-color: #ea8a8a;
+  margin: 5px 0;
+  border: 2px solid #444;
+  border-radius: 5px;
+
+  cursor: move;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+.container{
+  background-color: blue;
+  margin:auto;
+  width:600px;
+}
+
+h2{
+  text-align: center;
+}
+
+.floatleft{
+  float:left;
+}
+
+.clear{
+  clear:both;
+}
